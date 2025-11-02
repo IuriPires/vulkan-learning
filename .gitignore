@@ -1,0 +1,67 @@
+# Executables
+VulkanLearning
+*.exe
+*.out
+*.app
+
+# Compiled Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dylib
+*.so
+*.so.*
+*.dll
+
+# Debug symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+build/
+out/
+
+# IDE - VSCode
+.vscode/settings.json
+.vscode/*.log
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Core dumps
+core
+core.*
