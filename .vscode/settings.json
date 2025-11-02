@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "string": "cpp",
+    "*.ipp": "cpp",
+    "vector": "cpp",
+    "__hash_table": "cpp",
+    "__tree": "cpp",
+    "algorithm": "cpp",
+    "deque": "cpp",
+    "forward_list": "cpp",
+    "future": "cpp",
+    "list": "cpp",
+    "locale": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "tuple": "cpp",
+    "unordered_map": "cpp",
+    "valarray": "cpp",
+    "variant": "cpp"
+  }
+}

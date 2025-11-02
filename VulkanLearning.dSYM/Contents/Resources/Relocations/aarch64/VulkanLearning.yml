@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/iuripiresdarocha/development/vulkan-learning/VulkanLearning'
+relocations:     []
+...
